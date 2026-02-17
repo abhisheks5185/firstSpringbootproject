@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Car {
     public String  fun(){
-        return "Car is run";
+        return "Car is run on the road";
     }
 
 }
